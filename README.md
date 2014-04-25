@@ -20,6 +20,7 @@ Docker stuff used by Perl Metrics
   
   * Perl Modules
     * [Dancer](perldancer.org)
+    * [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla)
     * [File::Slurp](https://metacpan.org/pod/File::Slurp)
     * [JSON](https://metacpan.org/pod/JSON)
     * [Moose](https://metacpan.org/pod/Moose)
