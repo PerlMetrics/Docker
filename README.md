@@ -53,9 +53,17 @@ cd <user>/<repo>
 git checkout -qf <id>
 ```
 
-Finaly, for each Perl versions in PerlBrew, we launch test suite:
+### Test suite
+
+For each Perl versions in PerlBrew, we launch test suite:
 ```
 dzil authordeps | xargs cpanm
 dzil listdeps | xargs cpanm
 dzil test
 ```
+
+### Critic
+
+### Coverage
+
+### Kwalitee
