@@ -1,7 +1,11 @@
 Docker
 ======
 
-Docker stuff used by Perl Metrics
+Docker stuff used by Perl Metrics.
+
+Docker is now [supported on Debian 8.0 (64-bit)](https://docs.docker.com/installation/debian/) ! 
+
+Debian 8.0 64-bit image [here](http://cdimage.debian.org/cdimage/jessie_di_alpha_1/amd64/iso-cd/debian-jessie-DI-a1-amd64-netinst.iso)
 
 ## Docker image content
 
