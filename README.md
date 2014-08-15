@@ -36,6 +36,15 @@ apt-get upgrade
     * [JSON](https://metacpan.org/pod/JSON)
     * [Moose](https://metacpan.org/pod/Moose)
 
+  * or CPAN::Mini ?
+    * ~ 3Gbytes
+    * `~/.minicpanrc`
+```
+local: /Users/seb/minicpan
+remote: http://cpan.hexten.net/
+also_mirror: indices/ls-lR.gz
+skip_perl: 1
+```
 
 ## Docker run
 
